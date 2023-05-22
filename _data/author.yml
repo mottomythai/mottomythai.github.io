@@ -1,0 +1,31 @@
+name: Thai To
+dp: https://avatars.githubusercontent.com/u/81476752?v=4
+description: "
+  <p>
+    <i>What do a toxic lover and a fishy email have in common?</i>
+  </p>
+  <br/>
+  <p>
+  Both of them are full of red flags 🚩
+  </p>
+  <br/>
+  <br/>
+  <p>
+    For work, visit my <a href='/posts/portfolio' target='_blank'>Portfolio</a>.
+  </p>
+  <br/>
+  <p>
+  Learn more about me
+  <a href='/posts/about-me' target='_blank'>here</a>.
+  </p>
+"
+email: thaito.work@gmail.com
+contact:
+  - title: linkedin
+    url: https://www.linkedin.com/in/thai-to
+  - title: github
+    url: https://github.com/mottomythai
+  # - title: twitter
+  #   url: https://twitter.com/mottomythai
+  - title: email
+    url: mailto:thaito.work@gmail.com
