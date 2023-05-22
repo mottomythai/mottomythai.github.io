@@ -4,7 +4,7 @@ title: Portfolio
 date: 2023-05-22
 categories: [Career]
 ---
-#### Welcome recuiters and employers to my Portfolio,
+#### Welcome recruiters and employers to my Portfolio,
 
 My name is Thai To, I am currently a Cyber Security senior student with an ambition of becoming a Red Team Operator and a Bug Bounty Hunter.
 
