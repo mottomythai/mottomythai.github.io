@@ -16,6 +16,4 @@ Visit my résumé [here](https://drive.google.com/file/d/1vxhw1l0syX03XPGe_v1zm3
 
 ## > Extracurricular Activities
 
-
-
-<!-- *\* This page is updated constantly* -->
+<!-- This page is updated constantly -->
